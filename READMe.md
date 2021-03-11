@@ -30,7 +30,10 @@
   As a user I want to be able to track burgers that I want to eat and burgers I have eaten in an easy to use web application.
   ## Technologies 
   ```
-  node.js, mysql, express, express handlebars
+  - node.js
+  - mysql
+  - express
+  - express handlebars
   ```
   
   ## Installation

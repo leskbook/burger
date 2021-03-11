@@ -20,7 +20,7 @@
   ##  Project Links
   https://leslieburgerapp.herokuapp.com/<br>
   https://github.com/leskbook/burger<br>
-  https://leskbook.github.io/homework2Portfolio/
+  https://leskbook.github.io/homework2Portfolio/portfolio.html
 
   ## Screenshots-Demo
 

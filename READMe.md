@@ -22,9 +22,11 @@
   https://github.com/leskbook/burger<br>
   https://leskbook.github.io/homework2Portfolio/portfolio.html
 
-  ## Screenshots-Demo
+  ## Screenshots- DEMO 
 
-  <img src="https://github.com/leskbook/burger/blob/master/public/assets/images/proscreenshot.png">
+  <iframe src="https://drive.google.com/file/d/14rQ9ovH2OHtqiQopCa2pQlbhxXfxYvg1/preview" width="640" height="480"></iframe>
+
+  
   
   ## Project Objective
   In this assignment, we will create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. We will follow the MVC design pattern; use Node and MySQL to query  and route data in our app, and Handlebars to generate your HTML.

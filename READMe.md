@@ -24,7 +24,7 @@
 
   ## Screenshots- DEMO 
 
-  <iframe src="https://drive.google.com/file/d/14rQ9ovH2OHtqiQopCa2pQlbhxXfxYvg1/preview" width="640" height="480"></iframe>
+ ![](https://j.gifs.com/D1BO1A.gif)
 
   
   

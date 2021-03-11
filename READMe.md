@@ -27,7 +27,8 @@
   <img src="https://github.com/leskbook/burger/blob/master/public/assets/images/proscreenshot.png">
   
   ## Project Objective
-  Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page waiting to be devoured. Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
+  In this assignment, we will create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. We will follow the MVC design pattern; use Node and MySQL to query  and route data in our app, and Handlebars to generate your HTML.
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page waiting to be devoured. Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
   
   ## User Story
   As a user I want to be able to track burgers that I want to eat and burgers I have eaten in an easy to use web application.
